@@ -29,6 +29,12 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
             self.window = window
             window.makeKeyAndVisible()
         }
+        
+        if !UserDefaults.standard.bool(forKey: "first"){
+            FavoriteProvider().addMemberDummy(){
+                UserDefaults.standard.set(true, forKey: "first")
+            }
+        }
     }
 
     func sceneDidDisconnect(_ scene: UIScene) {
