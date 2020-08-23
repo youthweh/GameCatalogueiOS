@@ -1,5 +1,5 @@
 # GameCatalogueiOS
-Proyek Aplikasi Game Catalogue iOS menggunakan API dan SwiftUI
+👾 Proyek Aplikasi Game Catalogue iOS menggunakan API dan SwiftUI
  
 ## Fitur Aplikasi
 
