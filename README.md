@@ -30,7 +30,10 @@ Aplikasi Game Catalogue (Local Storage) dengan menambahkan beberapa fitur:
             * List Creator : https://api.rawg.io/api/creators
 
             * List Developer : https://api.rawg.io/api/developers
+            
+### Screenshot
 
+<img width="641" alt="Screenshot 2020-08-23 at 4 14 13 PM" src="https://user-images.githubusercontent.com/40766930/90975117-bb935100-e55b-11ea-959b-a5f3d6bca7aa.png">
 
 
 ### Author
